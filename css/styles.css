@@ -1,5 +1,5 @@
 body {
-  color: #40514e;
+  background-color: #121212;
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
@@ -23,11 +23,11 @@ h2 {
 
 h3 {
   font-family: "Montserrat", sans-serif;
-  color: #11999e;
+  color: #008E93;
 }
 
 a {
-  color: #11999e;
+  color: #008E93;
   margin: 10px 20px;
   font-family: "Montserrat", sans-serif;
   text-decoration: none;
@@ -38,7 +38,7 @@ a:hover {
 }
 
 hr {
-  border: dotted #eaf6f6 6px;
+  border: dotted #4A4E4E 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -60,7 +60,7 @@ hr {
 }
 
 .top-container {
-  background-color: #e4f9f5;
+  background-color: #162624;
   position: relative;
   padding-top: 100px;
 }
@@ -111,6 +111,7 @@ hr {
 
 p {
   line-height: 2;
+  color: #AFC3BF;
 }
 
 .btn {
